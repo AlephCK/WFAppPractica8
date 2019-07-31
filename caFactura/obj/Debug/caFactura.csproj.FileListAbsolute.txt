@@ -1,0 +1,6 @@
+C:\Users\AlephCK\Source\Repos\WFAppPractica8\caFactura\bin\Debug\caFactura.exe.config
+C:\Users\AlephCK\Source\Repos\WFAppPractica8\caFactura\bin\Debug\caFactura.exe
+C:\Users\AlephCK\Source\Repos\WFAppPractica8\caFactura\bin\Debug\caFactura.pdb
+C:\Users\AlephCK\Source\Repos\WFAppPractica8\caFactura\obj\Debug\caFactura.csproj.CoreCompileInputs.cache
+C:\Users\AlephCK\Source\Repos\WFAppPractica8\caFactura\obj\Debug\caFactura.exe
+C:\Users\AlephCK\Source\Repos\WFAppPractica8\caFactura\obj\Debug\caFactura.pdb

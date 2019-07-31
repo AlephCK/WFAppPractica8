@@ -1,0 +1,10 @@
+C:\Users\AlephCK\Source\Repos\WFAppPractica8\WFAppPractica8\bin\Debug\WFAppPractica8.exe.config
+C:\Users\AlephCK\Source\Repos\WFAppPractica8\WFAppPractica8\bin\Debug\WFAppPractica8.exe
+C:\Users\AlephCK\Source\Repos\WFAppPractica8\WFAppPractica8\bin\Debug\WFAppPractica8.pdb
+C:\Users\AlephCK\Source\Repos\WFAppPractica8\WFAppPractica8\obj\Debug\WFAppPractica8.csprojAssemblyReference.cache
+C:\Users\AlephCK\Source\Repos\WFAppPractica8\WFAppPractica8\obj\Debug\WFAppPractica8.Form1.resources
+C:\Users\AlephCK\Source\Repos\WFAppPractica8\WFAppPractica8\obj\Debug\WFAppPractica8.Properties.Resources.resources
+C:\Users\AlephCK\Source\Repos\WFAppPractica8\WFAppPractica8\obj\Debug\WFAppPractica8.csproj.GenerateResource.cache
+C:\Users\AlephCK\Source\Repos\WFAppPractica8\WFAppPractica8\obj\Debug\WFAppPractica8.csproj.CoreCompileInputs.cache
+C:\Users\AlephCK\Source\Repos\WFAppPractica8\WFAppPractica8\obj\Debug\WFAppPractica8.exe
+C:\Users\AlephCK\Source\Repos\WFAppPractica8\WFAppPractica8\obj\Debug\WFAppPractica8.pdb

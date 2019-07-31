@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFAppPractica8", "WFAppPractica8\WFAppPractica8.csproj", "{4BB9BE66-0F9E-4B5F-95A5-7CD374BA958A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "caFactura", "caFactura\caFactura.csproj", "{67F80D54-E301-4349-A76A-27EB2979DFF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB9BE66-0F9E-4B5F-95A5-7CD374BA958A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB9BE66-0F9E-4B5F-95A5-7CD374BA958A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB9BE66-0F9E-4B5F-95A5-7CD374BA958A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB9BE66-0F9E-4B5F-95A5-7CD374BA958A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F80D54-E301-4349-A76A-27EB2979DFF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F80D54-E301-4349-A76A-27EB2979DFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F80D54-E301-4349-A76A-27EB2979DFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F80D54-E301-4349-A76A-27EB2979DFF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2F3F500-C780-440E-94F6-97B9FCBF36F1}
+	EndGlobalSection
+EndGlobal
